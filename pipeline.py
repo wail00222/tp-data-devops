@@ -1,4 +1,5 @@
 """Pipeline de données : extraire -> transformer -> charger."""
+import os
 
 from pathlib import Path
 
